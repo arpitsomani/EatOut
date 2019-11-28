@@ -1,0 +1,62 @@
+.index img
+{
+	width:100%;height:400px;
+}
+.in
+{
+	display:flex;
+	font-family:Apple Chancery, cursive;
+	font-weight:bold;
+	font-size:32px;
+	color:#ec008c;
+	text-align: center;
+	padding:30px;
+	margin:30px;
+}
+.c
+{
+	font-size:20px;
+	font-family:Apple Chancery, cursive;
+	font-weight:bold;
+	color:#4B0082;
+	justify-content:center;
+	align-self: center;
+}
+.foo
+{
+	background-image:url(pics1.jpg);
+	background-size:cover;
+	background-attachment:fixed;
+	
+}
+
+.abc
+{
+	    width:400px;
+	position:absolute;top:50%;left:50%;
+transform:translate(-50%,-50%);background:rgba(10,20,160,0.8);
+padding:30px;
+box-sizing:border-box;box-shadow:#000 3px 6px 30px;
+margin:10px;
+text-align:center;
+}
+
+
+
+
+.rwc
+{
+	font-family:Apple Chancery, cursive;
+	font-weight:bold;
+	font-size:32px;
+	color:#ec008c;
+	text-align: center;
+	padding:30px;
+	margin:30px;
+}
+.rwc img
+{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
